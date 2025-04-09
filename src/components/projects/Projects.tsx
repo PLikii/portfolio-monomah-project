@@ -9,7 +9,7 @@ import ProjectItem from "./ProjectItem";
 
 export default function Projects() {
   return (
-    <div className="mb-6 space-y-8 bg-primary/75 pt-8 text-center overflow-y-hidden" data-aos="fade-up">
+    <div className="mb-6 space-y-8 bg-primary/75 pt-8 text-center">
       <div className="space-y-4">
         <div className="font-mono text-muted">EXAMPLES OF REALIZED PROJECTS</div>
         <div className="font-bold text-2xl text-primary-foreground xl:text-4xl">Projects</div>
