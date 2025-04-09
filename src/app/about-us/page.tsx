@@ -5,7 +5,7 @@ import Projects from "@/components/projects/Projects";
 
 export default function page() {
   return (
-    <div>
+    <div className="overflow-x-hidden">
       <InfoAboutUs />
       <Projects />
       <Advantages />

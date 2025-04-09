@@ -6,7 +6,6 @@ import { Menu, PhoneCall } from "lucide-react";
 import Link from "next/link";
 import { Button } from "../ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "../ui/sheet";
-import LanguageSwitcher from "./LanguageSwitcher";
 
 export default function MobileMenu() {
   return (
@@ -27,7 +26,6 @@ export default function MobileMenu() {
             ))}
           </ul>
           <ul className="space-y-2">
-            <LanguageSwitcher className="justify-center" />
             <li>
               <Button asChild>
                 <Link href="tel:+380501234567">
