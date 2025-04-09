@@ -8,7 +8,7 @@ import Projects from "@/components/projects/Projects";
 
 export default function Home() {
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 overscroll-x-none">
       <div>
         <VideoSection />
         <Hero />

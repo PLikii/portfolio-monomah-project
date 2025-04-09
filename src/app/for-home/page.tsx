@@ -9,7 +9,7 @@ import Projects from "@/components/projects/Projects";
 
 export default function page() {
   return (
-    <div>
+    <div className="overscroll-x-none">
       <InfoFromHome />
       <PrincipleOperation />
       <Advantages />

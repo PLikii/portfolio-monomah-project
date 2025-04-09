@@ -9,7 +9,7 @@ import Projects from "@/components/projects/Projects";
 
 export default function FromBusiness() {
   return (
-    <div>
+    <div className="overscroll-x-none">
       <InfoFromBusiness />
       <Benefits />
       <Gats />
