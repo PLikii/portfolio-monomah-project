@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "description": "Demo website",
+    "title": "Demo website",
+    "titleTempalte": "%s | Demo website"
+  }
+}
