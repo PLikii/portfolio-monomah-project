@@ -9,7 +9,7 @@ interface IProps {
 export default function Logo({ className }: IProps) {
   return (
     <Link href="/" className={cn("w-28", className)}>
-      <Image src="/placeholder.png" width={256} height={77} alt="Logo" className="h-16" />
+      <Image src="/placeholder.png" width={256} height={77} alt="Logo" className="h-10" />
     </Link>
   );
 }
