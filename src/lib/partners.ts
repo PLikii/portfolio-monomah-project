@@ -5,51 +5,51 @@ type Partners = {
 
 export const partners: Partners[] = [
   {
-    title: "Партнер 1",
-    img: "/partners.svg",
+    title: "partner 1",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 2",
-    img: "/partners.svg",
+    title: "partner 2",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 3",
-    img: "/partners.svg",
+    title: "partner 3",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 4",
-    img: "/partners.svg",
+    title: "partner 4",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 5",
-    img: "/partners.svg",
+    title: "partner 5",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 6",
-    img: "/partners.svg",
+    title: "partner 6",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 7",
-    img: "/partners.svg",
+    title: "partner 7",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 8",
-    img: "/partners.svg",
+    title: "partner 8",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 9",
-    img: "/partners.svg",
+    title: "partner 9",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 10",
-    img: "/partners.svg",
+    title: "partner 10",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 11",
-    img: "/partners.svg",
+    title: "partner 11",
+    img: "/placeholder.png",
   },
   {
-    title: "Партнер 12",
-    img: "/partners.svg",
+    title: "partner 12",
+    img: "/placeholder.png",
   },
 ];

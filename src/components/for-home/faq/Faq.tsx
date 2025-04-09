@@ -21,7 +21,9 @@ export default function Faq() {
 
         <div className="space-y-6 p-6" data-aos="zoom-in-left">
           <div className="text-center lg:text-left">
-            <div className="text-muted-foreground capitalize">ЩО НАЙЧАСТІШЕ ПИТАЮТЬ?</div>
+            <div className="font-semibold text-muted-foreground capitalize">
+              WHAT ARE THE MOST FREQUENTLY ASKED QUESTIONS?
+            </div>
 
             <div className="font-bold text-3xl text-primary xl:text-5xl">FAQ</div>
           </div>

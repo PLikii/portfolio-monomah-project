@@ -10,27 +10,27 @@ type AdvantagesItem = {
 export const advantages: AdvantagesItem[] = [
   {
     id: 1,
-    title: "Раціональне використання даху оселі та сонця",
+    title: "Rational use of the house roof and sunlight",
     icon: <MonitorCheck className="size-full text-primary" />,
   },
   {
     id: 2,
-    title: "Незалежність від відключення електромережі",
+    title: "Independence from power grid outages",
     icon: <MonitorCheck className="size-full text-primary" />,
   },
   {
     id: 3,
-    title: "Можливість продавати надлишки",
+    title: "Ability to sell surplus energy",
     icon: <MonitorCheck className="size-full text-primary" />,
   },
   {
     id: 4,
-    title: "Зміцнення енергетичної системи держави",
+    title: "Strengthening the country's energy system",
     icon: <MonitorCheck className="size-full text-primary" />,
   },
   {
     id: 5,
-    title: "Збереження навколишнього середовища",
+    title: "Environmental preservation",
     icon: <MonitorCheck className="size-full text-primary" />,
   },
 ];

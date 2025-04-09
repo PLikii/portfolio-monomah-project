@@ -8,17 +8,17 @@ type MenuItem = {
 export const menu: MenuItem[] = [
   {
     id: "for-business",
-    title: "Для бізнесу",
+    title: "For business",
     href: "/for-business",
   },
   {
     id: "for-home",
-    title: "Для дому",
+    title: "For home",
     href: "/for-home",
   },
   {
     id: "about-us",
-    title: "Про нас",
+    title: "About us",
     href: "/about-us",
   },
 ];

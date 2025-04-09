@@ -7,22 +7,22 @@ type Service = {
 export const services: Service[] = [
   {
     id: 1,
-    title: "Реалізація під ключ",
-    description: "Проектування, постачання обладнення, будівництво",
+    title: "Turnkey Implementation",
+    description: "Design, equipment supply, construction",
   },
   {
     id: 2,
-    title: "Реалізація під ключ",
-    description: "Проектування, постачання обладнення, будівництво",
+    title: "Turnkey Implementation",
+    description: "Design, equipment supply, construction",
   },
   {
     id: 3,
-    title: "Реалізація під ключ",
-    description: "Проектування, постачання обладнення, будівництво",
+    title: "Turnkey Implementation",
+    description: "Design, equipment supply, construction",
   },
   {
     id: 4,
-    title: "Реалізація під ключ",
-    description: "Проектування, постачання обладнення, будівництво",
+    title: "Turnkey Implementation",
+    description: "Design, equipment supply, construction",
   },
 ];

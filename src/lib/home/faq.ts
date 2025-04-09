@@ -7,23 +7,22 @@ type FqaItem = {
 export const faq: FqaItem[] = [
   {
     id: 1,
-    title: "Які основні ризики можуть бути у власника сончної станції",
-    description:
-      "Економія на компонентах, відсутності сервісного обслуговування призводить до відсутністі бажаного ефекту.",
+    title: "What are the main risks for a solar power plant owner?",
+    description: "Savings on components and lack of service maintenance lead to the absence of the desired effect.",
   },
   {
     id: 2,
-    title: "Термін експлуатації сонячної станції?",
-    description: "При коректній експлуатації від 10-ти років.",
+    title: "What is the lifespan of a solar power plant?",
+    description: "With proper operation, it lasts for over 10 years.",
   },
   {
     id: 3,
-    title: "На чому ви можете зекономити, процюючи з нами?",
-    description: "На нервових клітинах та заощадити власний час.",
+    title: "How can you save by working with us?",
+    description: "On your nerves and save your own time.",
   },
   {
     id: 4,
-    title: "Чи можливо реалізувати проект “на вчора”?",
-    description: "Індивідуальний підхід реалузує будь які бажання.",
+    title: "Is it possible to implement a project 'yesterday'?",
+    description: "An individual approach can fulfill any wish.",
   },
 ];

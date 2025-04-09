@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Демо веб-сайт",
-    "titleTempalte": "%s | Демо веб-сайт",
-    "description": "Опис демо вебсайта"
+    "description": "portfolio-project",
+    "title": "portfolio-project",
+    "titleTempalte": "%s | portfolio-project"
   }
 }

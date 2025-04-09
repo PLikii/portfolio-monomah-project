@@ -13,10 +13,11 @@ export default function InfoFromHome() {
 
       <div className="place-content-center space-y-8 px-6 py-32 text-muted xl:flex xl:items-center xl:space-x-20 xl:space-y-0 lg:px-14 xl:px-24 xl:py-40">
         <div className="space-y-4 text-center">
-          <div className="font-bold text-3xl xl:text-5xl">Для дому</div>
-          <div className="font-semibold xl:text-xl">Необхідність під час війни, корисне рішення після війни</div>
+          <div className="font-bold text-3xl xl:text-5xl">For home</div>
+          <div className="font-semibold xl:text-xl">A necessity during war, a useful solution after war</div>
           <div className="font-medium text-white/70 xl:text-lg">
-            Система, яка нівелює залежність у якості, наявності та вартості електроенергії від сьогодні на довгі роки
+            A system that eliminates dependence on the quality, availability and cost of electricity from today for many
+            years to come
           </div>
         </div>
       </div>

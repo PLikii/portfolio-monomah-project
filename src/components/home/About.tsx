@@ -11,15 +11,13 @@ export default function AboutUs() {
       </div>
       <div className="space-y-8 p-3">
         <div className="text-center lg:text-left">
-          <h2 className="text-muted-foreground capitalize">Про компанію</h2>
-          <span className="font-bold text-3xl text-primary xl:text-5xl">Quantum Solar</span>
+          <h2 className="font-semibold text-muted-foreground capitalize">About the company</h2>
+          <span className="font-bold text-3xl text-primary xl:text-5xl">Lorem Ipsum</span>
         </div>
         <div className="space-y-4 text-balance text-muted-foreground">
-          <p>Наша компанія створена в 2019 році, з провідних фахівців в галузі сонячної енергетики.</p>
-          <p>Для нас важливі високий рівень кваліфікації кожного спеціаліста та втілення світових трендів в Україні.</p>
-          <p>
-            Ми розробляємо індивідуальне рішення для кожного проекту та реалізовуємо концепти різного рівня складності.
-          </p>
+          <p>it is a "fish" text used in typography and dh" since the 16th century</p>
+          <p>it is a "fish" text used in typography and design. Lorem Ipsum ndard "fish" since the 16th century.</p>
+          <p>it is a "fish" text used in typography and design. Lorem Ipsum has, in fact,</p>
         </div>
       </div>
     </div>

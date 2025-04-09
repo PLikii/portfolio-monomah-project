@@ -14,18 +14,17 @@ export default function InfoFromBusiness() {
 
         <div className="place-content-center space-y-8 px-6 py-32 text-muted xl:flex xl:items-center xl:space-x-20 xl:space-y-0 lg:px-14 xl:px-24 xl:py-40">
           <div className="space-y-4">
-            <div className="font-bold text-3xl xl:text-5xl">Для бізнесу</div>
-            <div className="text-muted">
-              Отримайте і Ви інструмент управління особистої енергетичної та економічної безпеки
-            </div>
+            <div className="font-bold text-3xl xl:text-5xl">For business</div>
+            <div className="text-muted">Get a tool to manage your personal energy and economic security</div>
           </div>
 
           <div className="basis-4/5 space-y-4">
             <div className="font-bold text-3xl xl:text-5xl">Рішення доступне та вигідне</div>
             <div className="text-muted">
-              У 2000 році вартість сонячних панелей була близько $3-4 за Ватт, тоді як в 2024 році ця вартість вже може
-              бути порядку $0.3 за Ватт або навіть нижче, залежно від технології та якості виготовлення. Цей значний
-              спад вартості стимулював широке поширення сонячних технологій та значно підвищив їхню доступність.
+              In 2000, the cost of solar panels was around $3-4 per watt, while in 2024 this cost could be around $0.3
+              per watt or even lower, depending on the technology and manufacturing quality. This significant decline in
+              cost has stimulated the widespread adoption of solar technologies and significantly increased their
+              accessibility.
             </div>
           </div>
         </div>

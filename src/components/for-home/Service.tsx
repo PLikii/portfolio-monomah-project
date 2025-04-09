@@ -8,17 +8,17 @@ export default function Service() {
   return (
     <div className="flex flex-col-reverse gap-10 px-6 py-8 xl:flex-row lg:px-14 xl:px-24">
       <div className="space-y-8" data-aos="fade-right">
-        <div className="text-center font-bold text-3xl text-primary md:text-left xl:text-5xl">Сервіс/Клінінг</div>
+        <div className="text-center font-bold text-3xl text-primary md:text-left xl:text-5xl">Service/Cleaning</div>
 
-        <p>Важливість догляду за сонячною станцією неможливо переоцінити.</p>
-        <p>Ми аналізуємо онлайн коректність роботи станції 24/7 та швидко реагуємо на позаштатні ситуації системи.</p>
-        <p>Ваша станція буде надійно слугувати та приносити користь, а ми це проконтролюємо.</p>
+        <p>The importance of caring for a solar power plant cannot be overstated.</p>
+        <p>We monitor the station’s operation online 24/7 and respond quickly to any system malfunctions.</p>
+        <p>Your station will reliably serve and benefit you, and we will make sure of that.</p>
 
         <div className="space-y-6 sm:flex sm:justify-normal sm:space-x-10 sm:space-y-0">
           <Button asChild>
             <Link href="for-business#contacts">
               <Contact size={22} color="white" />
-              <div className="ml-2 text-xl">Наші контакти</div>
+              <div className="ml-2 text-xl">Our Contacts</div>
             </Link>
           </Button>
         </div>

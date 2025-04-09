@@ -7,19 +7,19 @@ type FqaItem = {
 export const faq: FqaItem[] = [
   {
     id: 1,
-    title: "Сонячна станція - це просто збудувати і насолоджуватись результатом?",
-    description: "Сонячна станція - це просто збудувати і насолоджуватись результатом?",
+    title: "Is a solar power plant just about building it and enjoying the result?",
+    description: "Is a solar power plant just about building it and enjoying the result?",
   },
   {
     id: 2,
-    title: "Чи потрібно мити сонячні панелі?",
+    title: "Do solar panels need to be cleaned?",
     description:
-      "Так, миття масиву сонячної станції є важливим елементом сервісного обслуговування, яке забезпечить довговічну роботу панелей. Навіть слід від птаха в довгостроковій перспективі може призвести до вигорання елементу та втрата ККД від 10 до 40%.",
+      "Yes, cleaning the solar panel array is an important part of maintenance, ensuring long-term panel performance. Even a bird droppings stain in the long run can lead to burning out the element and a decrease in efficiency from 10% to 40%.",
   },
   {
     id: 3,
-    title: "Які існують тонкощі при виборі фотоелектричних панелей?",
+    title: "What are the nuances when choosing photovoltaic panels?",
     description:
-      "Собівартість панелі на виробництві можна значно зменшити, результатом буде невідповідність електричних параметрів та зменшений строк експлуатації. Ми можемо провести обстеження партії сонячних панелей на відповідність характеристик.",
+      "The production cost of a panel can be significantly reduced, resulting in mismatched electrical parameters and a shorter service life. We can inspect the batch of solar panels for compliance with specifications.",
   },
 ];

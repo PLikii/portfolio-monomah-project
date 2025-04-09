@@ -7,32 +7,32 @@ type BusinessItem = {
 export const gets: BusinessItem[] = [
   {
     id: 1,
-    title: "Економія",
-    description: "Зрозумілий курс розвинутих країн, податкові пільги для експортерів",
+    title: "Savings",
+    description: "Clear course of developed countries, tax benefits for exporters",
   },
   {
     id: 2,
-    title: "Швидка окупаємість",
-    description: "Раціональне використання не задіяних площин",
+    title: "Fast Payback",
+    description: "Rational use of unused spaces",
   },
   {
     id: 3,
-    title: "Декарбонізація",
-    description: "Від 2,5 років",
+    title: "Decarbonization",
+    description: "From 2.5 years",
   },
   {
     id: 4,
-    title: "Економія",
-    description: "Від 20 до 35% в рік",
+    title: "Savings",
+    description: "From 20% to 35% per year",
   },
   {
     id: 5,
-    title: "Швидка окупаємість",
-    description: "Зрозумілий курс розвинутих країн, податкові пільги для експортерів",
+    title: "Fast Payback",
+    description: "Clear course of developed countries, tax benefits for exporters",
   },
   {
     id: 6,
-    title: "Декарбонізація",
-    description: "Більше 20-ти років вигод",
+    title: "Decarbonization",
+    description: "More than 20 years of benefits",
   },
 ];

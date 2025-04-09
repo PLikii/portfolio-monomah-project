@@ -5,15 +5,15 @@ export default function Hero() {
     <div className="grid grid-cols-1 md:grid-cols-2">
       <HeroItem
         imgSrc="/hero1.jpg"
-        title="Для бізнесу"
-        description="Для приватного сектору"
+        title="For business"
+        description="For the commercial sector"
         href="/for-business"
         dataAos="fade-right"
       />
       <HeroItem
         imgSrc="/hero2.jpg"
-        title="Для дому"
-        description="Для комерційного сектору"
+        title="For home"
+        description="For the private sector"
         href="/for-home"
         dataAos="fade-left"
       />

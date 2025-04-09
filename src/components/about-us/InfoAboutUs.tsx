@@ -15,7 +15,7 @@ export default function InfoAboutUs() {
         <div className="place-content-center space-y-8 px-6 py-32 text-muted xl:flex xl:items-center xl:space-x-20 xl:space-y-0 lg:px-14 xl:px-24 xl:py-40">
           <div className="space-y-4 text-center">
             <div className="font-bold text-2xl lg:text-3xl">
-              Сонячні інновації для сильної країни: ефективні рішення в умовах викликів
+              Solar innovations for a strong country: effective solutions in challenging conditions{" "}
             </div>
 
             <div className="space-y-8 rounded-3xl bg-black/60 py-8 lg:flex lg:pt-0 lg:pb-0">
@@ -31,12 +31,12 @@ export default function InfoAboutUs() {
 
               <div className="space-y-6 lg:p-6 lg:pb-0">
                 <div className="font-semibold text-xl lg:text-left">
-                  "Відкривайте для себе безмежний потенціал сонячних технологій разом з нами! Ми віримо, що кожен
-                  промінь сонця може стати силовим джерелом для вашого проекту. Звертайтеся – ми готові зробити ваші
-                  енергетичні мрії реальністю!!"
+                  "Discover the limitless potential of solar technology with us! We believe that every ray of sunlight
+                  can become a power source for your project. Contact us - we are ready to make your energy dreams a
+                  reality!!"
                 </div>
                 <div className="flex items-center justify-center space-x-10 lg:justify-end">
-                  <div>Кондратенко В.В.</div>
+                  <div>Placeholder P.L.</div>
                 </div>
               </div>
             </div>

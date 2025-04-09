@@ -7,7 +7,7 @@ export default function Stages() {
   return (
     <div className="mb-10" data-aos="flip-down">
       <div className="bg-primary/75 p-8 text-center font-bold text-2xl text-primary-foreground xl:text-4xl">
-        Етапи виконання
+        Stages of implementation
       </div>
 
       <div className="relative">

@@ -6,7 +6,7 @@ export default function Service() {
   return (
     <div className="space-y-8 px-6 pb-8 lg:px-14 xl:px-24">
       <div className="text-center font-bold text-3xl text-blue text-primary xl:text-5xl" data-aos="fade-up-right">
-        Сервіс
+        Service
       </div>
 
       <div className="grid w-full grid-cols-1 gap-4 md:grid-cols-3">

@@ -15,13 +15,15 @@ export default function Faq() {
           <Image src="/fqaBusiness.jpg" fill className="rounded-3xl object-cover xl:mr-96" alt="fqaBusiness" />
 
           <span className="absolute inset-x-2 bottom-2 text-balance rounded-3xl bg-primary/75 p-5 text-right text-primary-foreground text-xl backdrop-blur duration-300 lg:text-3xl md:text-2xl">
-            Часті запитання
+            Frequently asked questions
           </span>
         </div>
 
         <div className="space-y-6 p-6" data-aos="zoom-in-left">
           <div className="text-center lg:text-left">
-            <div className="text-muted-foreground capitalize">ЩО НАЙЧАСТІШЕ ПИТАЮТЬ?</div>
+            <div className="font-semibold text-muted-foreground capitalize">
+              WHAT IS THE MOST FREQUENTLY ASKED QUESTIONS?
+            </div>
 
             <div className="font-bold text-3xl text-primary xl:text-5xl">FAQ</div>
           </div>

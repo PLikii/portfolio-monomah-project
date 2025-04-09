@@ -11,26 +11,26 @@ type AdvantagesItem = {
 export const advantages: AdvantagesItem[] = [
   {
     id: 1,
-    title: "Надійність",
-    description: "Побудова міцних взаємовідносин, гарантія інвестицій та результату",
+    title: "Reliability",
+    description: "Building strong relationships, investment and result guarantee",
     icon: <MonitorCheck className="size-full text-primary" />,
   },
   {
     id: 2,
-    title: "Екслюзивність",
-    description: "Впроваджння креативних рішень",
+    title: "Exclusivity",
+    description: "Implementation of creative solutions",
     icon: <MonitorCheck className="size-full text-primary" />,
   },
   {
     id: 3,
-    title: "Експертність",
-    description: "Сертифіковані спеціалісти",
+    title: "Expertise",
+    description: "Certified specialists",
     icon: <MonitorCheck className="size-full text-primary" />,
   },
   {
     id: 4,
-    title: "Відповідальність",
-    description: "Дотримання термінів та відповідність спланованого результату",
+    title: "Responsibility",
+    description: "Adherence to deadlines and alignment with the planned result",
     icon: <MonitorCheck className="size-full text-primary" />,
   },
 ];

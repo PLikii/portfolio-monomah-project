@@ -21,10 +21,10 @@ export default function VideoSection() {
         <source src="/main-video/1080p.mp4" type="video/mp4" />
       </video>
       <div className="-translate-x-1/2 -translate-y-1/2 absolute inset-1/2 flex min-w-[450px] flex-col items-center justify-center">
-        <h2 className="mb-5 font-extrabold text-5xl text-primary-foreground drop-shadow-lg">Заголовок</h2>
+        <h1 className="mb-5 font-extrabold text-5xl text-primary-foreground drop-shadow-lg">Lorem Ipsum</h1>
         <p className="text-balance text-center text-primary-foreground/80 drop-shadow-lg">
-          Lorem Ipsum - це текст-"риба", що використовується в друкарстві та дизайні. Lorem Ipsum є, фактично,
-          стандартною "рибою" аж з XVI сторіччя
+          Lorem Ipsum - it is a "fish" text used in typography and design. Lorem Ipsum has, in fact, been the standard
+          "fish" since the 16th century
         </p>
       </div>
     </div>

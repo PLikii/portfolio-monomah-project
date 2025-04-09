@@ -14,27 +14,27 @@ type StagesItem = {
 export const stages: StagesItem[] = [
   {
     id: 1,
-    title: "Створення ТЗ",
+    title: "Creating the Terms of Reference",
     icon: <CircleHelp className="size-full text-primary" />,
   },
   {
     id: 2,
-    title: "Розробка проекту",
+    title: "Project Development",
     icon: <PencilRuler className="size-full text-primary" />,
   },
   {
     id: 3,
-    title: "Підписання угоди",
+    title: "Agreement Signing",
     icon: <PenLine className="size-full text-primary" />,
   },
   {
     id: 4,
-    title: "Реалізація",
+    title: "Implementation",
     icon: <Sun className="size-full text-primary" />,
   },
   {
     id: 5,
-    title: "Сервіс",
+    title: "Service",
     icon: <RefreshCcwDot className="size-full text-primary" />,
   },
 ];
