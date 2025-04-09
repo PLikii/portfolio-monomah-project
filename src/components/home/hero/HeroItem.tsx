@@ -20,6 +20,7 @@ export default function HeroItem({ imgSrc, title, description, href, dataAos }: 
         src={imgSrc}
         alt={title}
         fill
+        loading="eager"
         className="-z-10 w-full object-cover duration-500 group-hover:scale-110 group-hover:brightness-50"
       />
       <h2 className="font-bold text-3xl duration-500 group-hover:text-primary xl:text-5xl">{title}</h2>
