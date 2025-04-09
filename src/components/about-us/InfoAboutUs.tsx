@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function InfoAboutUs() {
   return (
     <div>
-      <div className="relative">
+      <div className="relative overflow-y-hidden">
         <Image
           src="/hero1.jpg"
           width={1920}

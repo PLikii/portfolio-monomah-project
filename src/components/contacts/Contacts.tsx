@@ -3,7 +3,11 @@ import ContactItem from "./ContactItem";
 
 export default function Contacts() {
   return (
-    <section id="contacts" className="container space-y-8 px-3 text-center xl:flex xl:space-y-0" data-aos="fade-up">
+    <section
+      id="contacts"
+      className="overflow-y-hidden container space-y-8 px-3 text-center xl:flex xl:space-y-0"
+      data-aos="fade-up"
+    >
       <div className="xl:w-80">
         <div className="font-mono font-semibold text-black/70">CONTACT US</div>
         <div className="font-bold text-3xl text-blue xl:text-5xl">Contacts</div>
