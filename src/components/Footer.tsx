@@ -25,7 +25,7 @@ export default function Footer() {
         <span className="block text-gray-500 text-sm sm:text-center dark:text-gray-400">
           {`© ${dayjs().format("YYYY")} `}
           <Link href="/" className="hover:underline">
-            Company Name
+            Placeholder
           </Link>
           . All Rights Reserved.
         </span>

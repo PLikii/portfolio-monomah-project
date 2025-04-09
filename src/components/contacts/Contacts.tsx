@@ -13,17 +13,17 @@ export default function Contacts() {
         <ContactItem
           icon={<Phone size={32} className="text-primary" />}
           title="Mobile number"
-          description="+380 (98) 381 05 60"
-          href="tel:+380983810560"
+          description="+380 (050) 123 45 67"
+          href="tel:+380"
           index={0}
         />
 
         <ContactItem
           icon={<Mail size={32} className="text-primary" />}
           title="Email"
-          description="qsukraine@gmail.com"
+          description="placeholder@gmail.com"
           className="bg-secondary/10"
-          href="mailto:qsukraine@gmail.com"
+          href="mailto:placeholder@gmail.com"
           index={1}
         />
 
